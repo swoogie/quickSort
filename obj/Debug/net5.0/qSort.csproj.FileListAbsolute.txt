@@ -1,0 +1,16 @@
+C:\Users\swogon\Desktop\ADS\qSort\bin\Debug\net5.0\qSort.exe
+c:\Users\swogon\Desktop\ADS\qSort\bin\Debug\net5.0\qSort.deps.json
+c:\Users\swogon\Desktop\ADS\qSort\bin\Debug\net5.0\qSort.runtimeconfig.json
+c:\Users\swogon\Desktop\ADS\qSort\bin\Debug\net5.0\qSort.runtimeconfig.dev.json
+C:\Users\swogon\Desktop\ADS\qSort\bin\Debug\net5.0\qSort.dll
+c:\Users\swogon\Desktop\ADS\qSort\bin\Debug\net5.0\ref\qSort.dll
+C:\Users\swogon\Desktop\ADS\qSort\bin\Debug\net5.0\qSort.pdb
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.csprojAssemblyReference.cache
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.AssemblyInfoInputs.cache
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.AssemblyInfo.cs
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.csproj.CoreCompileInputs.cache
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.dll
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\ref\qSort.dll
+C:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.pdb
+c:\Users\swogon\Desktop\ADS\qSort\obj\Debug\net5.0\qSort.genruntimeconfig.cache
